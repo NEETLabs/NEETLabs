@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NEETLabs
+- 👋 Hi, I’m @NEET.
 
 <!---
 NEETLabs/NEETLabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
